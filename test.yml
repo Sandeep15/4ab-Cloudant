@@ -1,3 +1,5 @@
 Component:
   Webserver : tomcat
   DB server : Oracle
+  Language  : Java
+  Middlelayer:  Tuxedo
